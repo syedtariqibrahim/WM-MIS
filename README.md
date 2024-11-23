@@ -11,7 +11,7 @@ Thus, making it capable for calculating <br>
 People expert in PHP are welcome to help me out with their valuable suggestions in this project
 
 Regards,<br>
-<a href="https://www.facebook.com/syedtariqibrahim">Tariq</a> | Developer | <a href="http://www.yourhost.co.in">YourHost Web Services</a>
+<a href="https://www.facebook.com/syedtariqibrahim">Tariq</a> | Developer | <a href="http://www.yourhost.co.in">YHPL</a>
 
 
 
